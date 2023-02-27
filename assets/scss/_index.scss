@@ -1,0 +1,34 @@
+
+
+body {
+    background-image: url('../img/j6gooEJ-rain-hd-wallpaper.jpg');
+    color: black;
+}
+
+.containerSection {
+height: 307px;
+}
+
+.imageContainer {
+height: 40vh;
+background-image: url('../img/umbrella3.jpg');
+background-size: cover;
+background-position: center;
+}
+
+.main {
+    display: flex;
+    color: #ffff;
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+    margin-bottom: 10em;
+}
+
+                                                   // Footer//@at-root
+
+.footerContainer {
+    text-align: center;
+    color: #ffff;
+
+}
